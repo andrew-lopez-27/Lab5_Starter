@@ -3,8 +3,8 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 
 Andrew Lopez 
 
-GitHub Pages Link (Expose): https://andrew-lopez-27.github.io/Lab5_Starter/expose.html
-GitHub Pages Link (Explore): https://andrew-lopez-27.github.io/Lab5_Starter/explore.html
+- GitHub Pages Link (Expose): https://andrew-lopez-27.github.io/Lab5_Starter/expose.html
+- GitHub Pages Link (Explore): https://andrew-lopez-27.github.io/Lab5_Starter/explore.html
 
 Check Your Understanding
 
